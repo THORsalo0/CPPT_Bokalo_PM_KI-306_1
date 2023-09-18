@@ -1,0 +1,69 @@
+
+  public Starship(String name, String c_name)  : was used
+
+  public stats()  : was used
+
+  public move()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public retreat()  : was used
+
+  public stats()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public damage()  : was used
+
+  public fight()  : was used
+
+  public stats()  : was used
+
+  public repair()  : was used
+
+  public move()  : was used
+
+  public move()  : was used
+
+  public stats()  : was used
+
+  public refuel()  : was used
+
+  public stats()  : was used
+public void closer() : was used
