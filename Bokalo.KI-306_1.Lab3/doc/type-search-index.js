@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI306.Bokalo.Lab3","l":"Lab3BokaloKI306"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI306.Bokalo.Lab3","l":"Lab3BokaloKI306"},{"p":"KI306.Bokalo.Lab3","l":"Multi_Starship"},{"p":"KI306.Bokalo.Lab3","l":"Ships"},{"p":"KI306.Bokalo.Lab3","l":"Starship"}];updateSearchResults();
