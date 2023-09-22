@@ -112,3 +112,60 @@ Health : 100
  public void setCoins(int coins) : was used
 public void Captain_stats : was used 
 public void close() : was used
+
+ public Captain (String name) : was used
+
+ public void Captain_stats_file() : was used 
+
+New Captain created :
+ID : 1
+Name : Soreman
+Coins : 100
+Health : 100
+
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+
+ public int getCoins()  : was used
+
+ public void setCoins(int coins) : was used
+public void Captain_stats : was used 
+public void close() : was used
